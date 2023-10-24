@@ -3,7 +3,7 @@
 # Как использовать?
 1) Импортируйте базу данных (demoexam)
 2) Закиньте файлы проекта к себе на хост (2 варианта):
-- Gitbash: git clone https://github.com/Ghosty1337/demoexam.git
+- Gitbash: git clone https://github.com/qeaaaae/demoexam.git
 - Качаете архив и всё ручками
 3) В файле includes/db/config.php нужно изменить данные от БД
 4) Готово!
